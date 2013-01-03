@@ -19,6 +19,7 @@
         "url": "http://github.com/dphrag/node-minutedock.git"
     },
     "dependencies": { },
+    "license": "MIT",
     "engines": {
         "node": ">=0.8"
     }
