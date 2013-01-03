@@ -1,0 +1,25 @@
+{
+    "name": "node-minutedock",
+    "version": "0.1.0",
+    "author": {
+        "name": "Nigel Fish",
+        "url": "http://github.com/dphrag"
+    },
+    "description": "MinuteDock API wrapper",
+    "keywords": [
+        "api",
+        "wrapper",
+        "minutedock"
+    ],
+    "homepage": "http://github.com/dphrag/node-minutedock",
+
+    "main": "./lib/minutedock",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/dphrag/node-minutedock.git"
+    },
+    "dependencies": { },
+    "engines": {
+        "node": ">=0.8"
+    }
+}
