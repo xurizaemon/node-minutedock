@@ -1,17 +1,21 @@
-# node-minutedock (API wrapper for Node.js)
+Description
+===========
 
-A wrapper for the [MinuteDock API v1](http://minutedock.com/apidocs/)
+A Node.js wrapper for the [MinuteDock API v1](http://minutedock.com/apidocs/)
 
-## Requirements
+Requirements
+============
 
-	* [node.js](http://nodejs.org/)
-	* A [MinuteDock](http://minutedock.com/) API Key
+* [node.js](http://nodejs.org/)
+* A [MinuteDock](http://minutedock.com/) API Key
 
-## Installation
+Installation
+============
 
-	npm install minutedock
+    npm install minutedock
 
-## Example usage
+Example
+=======
 
     var http = require('http'),
         Minutedock = require('./lib/minutedock');
