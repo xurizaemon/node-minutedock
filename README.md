@@ -1,6 +1,15 @@
 # node-minutedock (API wrapper for Node.js)
 
-A wrapper for the MinuteDock API v1
+A wrapper for the [MinuteDock API v1](http://minutedock.com/apidocs/)
+
+## Requirements
+
+	* [node.js](http://nodejs.org/)
+	* A [MinuteDock](http://minutedock.com/) API Key
+
+## Installation
+
+	npm install minutedock
 
 ## Example usage
 
