@@ -18,7 +18,7 @@ Example
 =======
 
     var http = require('http'),
-        Minutedock = require('./lib/minutedock');
+        Minutedock = require('minutedock');
 
     var md = new Minutedock(
         'API_KEY'
